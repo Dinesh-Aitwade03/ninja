@@ -1,0 +1,14 @@
+	Scroll Up -  Navigate to  Laptops & Notebooks >> Show All Laptops & Notebooks
+
+	 Go to Refine Search and Sort by Price (High > Low):
+o	Select MacBook Pro and Qty 2
+o	Click on Add to Cart
+o	Hit Ok on Notice
+
+	Hit Shopping Cart on Right up corner
+o	Hit Ok on Notice
+
+	Verify quantities, Unit Price, Model, Product Name and total cost of the products.
+Verify total cost (total cost of 2 products).
+
+	Print all values (Quantity, Unit Price, Model, Product Name, Total product cost, Total cost of Cart) on the console.
